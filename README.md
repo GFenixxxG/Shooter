@@ -1,2 +1,2 @@
 # Shooter
-Copy PVZ from by pygame
+parody PVZ from by pygame
